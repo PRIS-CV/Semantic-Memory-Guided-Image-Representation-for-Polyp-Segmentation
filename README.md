@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Polyp Segmentation Model
 
 ## Introduction
@@ -79,3 +80,7 @@ The repository contains the PyTorch implementation of **"Duplex Contextual Relat
 
 - The evaluation code is stored in ./utils/eval.py
 - You can replace it with your customized evaluation metrics.
+=======
+# Semantic-Memory-Guided-Image-Representation-for-Polyp-Segmentation-ICASSP-2023-
+Semantic Memory Guided Image Representation for Polyp Segmentation (ICASSP-2023)
+>>>>>>> d07e89fd2733e6e9e5c27775dab9d301a8b0ffaa
