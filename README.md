@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The repository contains the PyTorch implementation of **"Semantic Memory Guided Image Representation for Polyp Segmentation"** ,ICASSP-2023. ([paper] | [中文版]) <!--加个括号超链接，[paper] ()-->
+The repository contains the PyTorch implementation of **"Semantic Memory Guided Image Representation for Polyp Segmentation"** ,ICASSP-2023.  <!--([paper]() | [中文版]())-->
 
 ## Overview
 
