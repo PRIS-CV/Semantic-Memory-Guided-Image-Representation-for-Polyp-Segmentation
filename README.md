@@ -1,4 +1,4 @@
-# Polyp Segmentation Model
+# Semantic Memory Guided Image Representation for Polyp Segmentation (ICASSP-2023)
 
 ## Introduction
 
